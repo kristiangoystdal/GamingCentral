@@ -1,0 +1,12 @@
+v1.1
+- First update
+- Two games: TTT & UTTT
+
+v1.2
+- Two new games: Connect 4 and Memory
+- Added confirmation box for exiting games
+- 
+
+v1.2.1
+- Fixed coloring issuse on Connect Four
+- Added a rulebook 
